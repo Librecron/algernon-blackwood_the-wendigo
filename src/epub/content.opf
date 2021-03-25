@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://librecron.com/ebooks/algernon-blackwood/the-wendigo</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-03-25T00:38:35Z</dc:date>
+		<meta property="dcterms:modified">2021-03-25T00:38:35Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/.</dc:rights>
 		<dc:publisher id="publisher">Librecron</dc:publisher>
 		<meta property="file-as" refines="#publisher">Librecron</meta>
@@ -40,8 +40,8 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/10897</dc:source>
 		<dc:source>https://archive.org/details/TheWendigo</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">18727</meta>
+		<meta property="se:reading-ease.flesch">66.98</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Wendigo</meta>
 		<meta property="se:url.vcs.github">https://github.com/librecron/algernon-blackwood_the-wendigo</meta>
 		<dc:creator id="author">Algernon Blackwood</dc:creator>
@@ -63,8 +63,7 @@
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">The Online Distributed Proofreading Team</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
-		<meta property="se:url.homepage" refines="#transcriber-4">https://pgdp.net</meta>
-		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
+		<meta property="se:url.homepage" refines="#transcriber-3">https://pgdp.net</meta>
 		<dc:contributor id="producer-1">Yuvraj Singh</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Singh, Yuvraj</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://librecron.com</meta>
